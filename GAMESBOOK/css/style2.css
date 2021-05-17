@@ -1,0 +1,60 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body {
+    margin: 0;
+    /* */
+    padding: 0;
+    background: url(https://images5.alphacoders.com/551/551761.jpg) no-repeat;
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.logo {
+    width: auto;
+    height: 10px;
+    color: white;
+    background-color: #130d0dd5;
+    text-align: center;
+}
+
+header {
+    margin-top: 50px;
+}
+
+.child {
+    top: 0;
+    left: 0;
+    float: left;
+    border: black solid 1px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    width: 200px;
+    height: 50px;
+    background-color: #363333d5;
+}
+
+.last {
+    background-color: #363333d5;
+    width: auto;
+    height: 50px;
+    color: white;
+    border: black solid 1px;
+}
+
+h1 {
+    font-size: 19.5px;
+}
+
+.P {
+    display: block;
+    background-color: #4caf50f5;
+    width: 500px;
+    height: 800px;
+    color: white;
+}
